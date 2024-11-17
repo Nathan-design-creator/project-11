@@ -1,0 +1,40 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: rgb(235, 137, 186);
+    padding: 20px;
+    text-align: center;
+    border: 2px solid rgb(206, 98, 152);
+}
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.td {
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid rgb(206, 98, 152);
+    background-color: rgb(235, 137, 186);
+    height: 200px;
+    width: 200px;
+}
+
+#td1 {
+    float: left;
+}
+
+#td2 {
+    float: right;
+}
+
+#td3 {
+    float: left;
+}
+
+#td4 {
+    float: right;
+}
